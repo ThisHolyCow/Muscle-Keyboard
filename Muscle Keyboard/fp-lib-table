@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name keyswitches)(type KiCad)(uri "D:/Mech Keyboards/KiCad Footprints/Switches/keyswitches.pretty-master")(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri "D:/Mech Keyboards/KiCad Footprints/random-keyboard-parts.pretty-master")(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri "D:/Mech Keyboards/KiCad Footprints/Switches/MX_Only.pretty")(options "")(descr ""))
+  (lib (name teensy)(type KiCad)(uri "D:/Mech Keyboards/KiCad Footprints/teensy.pretty-master")(options "")(descr ""))
+)

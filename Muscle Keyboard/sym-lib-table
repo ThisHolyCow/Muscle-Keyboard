@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name random-keyboard-parts)(type Legacy)(uri "D:/Mech Keyboards/KiCad Footprints/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name teensy)(type Legacy)(uri "D:/Mech Keyboards/KiCad Footprints/teensy.pretty-master/teensy_library-master/teensy.lib")(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "D:/Mech Keyboards/KiCad Footprints/Switches/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+)
